@@ -1,2 +1,7 @@
-# textExtractorFromImage
-Simple Apps to extract image from text
+Part 1 of tedious tasks solver
+
+## Getting Started
+
+Simple web application to extract text from image.
+
+## Deployement ()
