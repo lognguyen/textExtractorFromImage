@@ -21,10 +21,8 @@ export default function imagehandler() {
         const result = await Tesseract.recognize(
             imagePath
         );
-        console.log(result.data.text)
         setText(result.data.text)
         setConfidenceScore(result.data.confidence)
-        console.log(result.data.confidence)
     }
 
     return (
