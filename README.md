@@ -4,4 +4,5 @@ Part 1 of tedious tasks solver
 
 Simple web application to extract text from image.
 
-## Deployement ()
+## Deployement (Railway)
+textractorfromimage-production.up.railway.app
